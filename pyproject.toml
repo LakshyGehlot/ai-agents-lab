@@ -8,6 +8,8 @@ dependencies = [
     "langchain>=0.3.26",
     "langchain-community>=0.3.27",
     "langchain-google-genai>=2.0.10",
+    "langchain-tavily>=0.2.9",
+    "langgraph>=0.5.3",
     "openai>=1.95.1",
     "python-dotenv>=1.1.1",
 ]
